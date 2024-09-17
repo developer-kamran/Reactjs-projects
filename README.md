@@ -18,7 +18,7 @@ This repository contains multiple React.js projects. Each project is organized i
    ```bash
    git clone https://github.com/developer-kamran/Reactjs-projects.git
 
-2. **Navigate to the project directory:**
+2. **Navigate to the project directory (For Example):**
 
    ```bash
    cd 01-dark-mode/setup
